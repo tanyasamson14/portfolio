@@ -2,7 +2,7 @@
 
 ![tests](https://github.com/tanyasamson14/portfolio/actions/workflows/tests.yml/badge.svg)
 
-Samples of my work across **AI output testing, quality engineering, business analysis and product delivery**:
+Samples of my work across *Generative AI Testing, quality engineering, business analysis and product delivery**:
 how I test AI-generated clinical content, how I write acceptance criteria and run go/no-go, and runnable test
 code you can try in five minutes.
 
@@ -16,7 +16,7 @@ CI pipeline and the AI accuracy checks are the point.
 
 ## What's in here
 
-### 1. AI output testing and AI tooling
+### 1. Generative AI Testing and AI tooling
 
 | Sample | Shows |
 | --- | --- |
